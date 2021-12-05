@@ -1,0 +1,21 @@
+{
+  "name": "project-scaffold",
+  "version": "1.0.0-0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test",
+    "bin": "bin"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "private": true,
+  "devDependencies": {
+    "jest": "^27.4.3",
+    "standard": "^16.0.4"
+  }
+}
